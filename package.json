@@ -1,0 +1,19 @@
+{
+  "name": "ht-pdf",
+  "version": "1.0.11",
+  "description": "use  phantomjs  and  use image in  header content",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "ht-pdf",
+    "phantomjs"
+  ],
+  "author": "ibeeger",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
